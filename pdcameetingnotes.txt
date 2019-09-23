@@ -1,0 +1,20 @@
+pdca id by year
+search all fields
+multi check on entity
+standard as checkboxes
+back to top
+n/a field to indicate entry not required
+n/a keeps the panel collapsed
+must have title, description, entity, Results 
+must have text or n/a
+editable list of people
+remove colors fonts and sizes
+make pdca fields 2 across
+SII-PDCA
+School year
+Save and submit button
+Status field
+editable descriptions on the fields
+email to chosen people when submitted
+Lock all fields after submit
+sort on grid
